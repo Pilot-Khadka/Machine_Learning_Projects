@@ -1,6 +1,6 @@
-# Data Mining Project
+# Machine Project
 
-This repository contains the code and data for a Data Mining project that explores various machine learning algorithms including Principal Component Analysis (PCA), Decision Tree, Naive Bayes, Artificial Neural Networks (ANN), and K-Means clustering.
+This repository contains the code and data for a Machine Learning projects that explores various algorithms including Principal Component Analysis (PCA), Decision Tree, Naive Bayes, Artificial Neural Networks (ANN), and K-Means clustering.
 
 ## Table of Contents
 
