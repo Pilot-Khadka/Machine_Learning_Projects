@@ -19,7 +19,7 @@ This repository contains the code and data for a Machine Learning projects that 
 
 ## Introduction
 
-In this data mining project, we aim to explore and analyze a dataset using various machine learning algorithms. The goal is to gain insights, make predictions, and understand the underlying patterns present in the data. The main algorithms utilized in this project are PCA, Decision Tree, Naive Bayes, Artificial Neural Networks (ANN), and K-Means clustering.
+The aim of this repo is to explore and analyze a dataset using various machine learning algorithms. The main algorithms utilized in this project are PCA, Decision Tree, Naive Bayes, and K-Means clustering.
 
 ## Algorithms
 
@@ -39,11 +39,6 @@ Naive Bayes is a probabilistic algorithm commonly used for classification tasks.
 
 K-Means is an unsupervised clustering algorithm used to partition data into 'k' distinct clusters. It aims to minimize the distance between data points within each cluster while maximizing the distance between different clusters.
 
-### Artificial Neural Networks (ANN)
-
-ANN is a powerful machine learning technique inspired by the structure and function of the human brain. It consists of interconnected nodes (neurons) organized in layers to learn complex patterns and make predictions.
-
-
 ## Installation
 
 To run the code in this repository, follow these steps:
@@ -53,8 +48,6 @@ To run the code in this repository, follow these steps:
 
 ## Usage
 
-After installing the necessary dependencies, you can run each algorithm's code by executing the respective scripts. Before running any algorithm, make sure to specify the dataset and the desired parameters (if applicable) in the script.
 
 ## Dataset
 
-Provide a brief description of the dataset used in this project. Include information about the source, format, and any preprocessing steps applied.
