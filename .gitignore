@@ -1,0 +1,6 @@
+
+PCA in Fashion MNIST/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+*.gz
+PCA in Fashion MNIST/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+PCA in Fashion MNIST/data/FashionMNIST/raw/train-images-idx3-ubyte
+PCA in Fashion MNIST/data/FashionMNIST/raw/train-labels-idx1-ubyte
