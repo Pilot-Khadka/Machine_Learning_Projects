@@ -1,0 +1,54 @@
+[
+    {
+        "name": "समाचार",
+        "url": "https://ekantipur.com/news"
+    },
+    {
+        "name": "अर्थ / वाणिज्य",
+        "url": "https://ekantipur.com/business"
+    },
+    {
+        "name": "विचार",
+        "url": "https://ekantipur.com/opinion"
+    },
+    {
+        "name": "खेलकुद",
+        "url": "https://ekantipur.com/sports"
+    },
+    {
+        "name": "उपत्यका",
+        "url": "https://ekantipur.com/national"
+    },
+    {
+        "name": "मनोरञ्जन",
+        "url": "https://ekantipur.com/entertainment"
+    },
+    {
+        "name": "फोटोफिचर",
+        "url": "https://ekantipur.com/photo_feature"
+    },
+    {
+        "name": "फिचर",
+        "url": "https://ekantipur.com/feature"
+    },
+    {
+        "name": "विश्व",
+        "url": "https://ekantipur.com/world"
+    },
+    {
+        "name": "ब्लग",
+        "url": "https://ekantipur.com/blog"
+    },
+    {
+        "name": "कोसेली",
+        "url": "https://ekantipur.com/koseli"
+    },
+    {
+        "name": "प्रवास",
+        "url": "https://ekantipur.com/diaspora"
+    },
+    {
+        "name": "शिक्षा",
+        "url": "https://ekantipur.com/Education"
+    }
+]
