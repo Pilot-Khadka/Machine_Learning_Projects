@@ -25,19 +25,11 @@ The aim of this repo is to explore and analyze a dataset using various machine l
 
 ### Principal Component Analysis (PCA)
 
-PCA is a dimensionality reduction technique used to transform high-dimensional data into a lower-dimensional space. It helps to identify the most important features (principal components) that explain the variance in the data.
-
 ### Decision Tree
-
-Decision Tree is a popular supervised learning algorithm used for classification and regression tasks. It works by recursively splitting the data based on the most significant features, creating a tree-like structure that aids in decision-making.
 
 ### Naive Bayes
 
-Naive Bayes is a probabilistic algorithm commonly used for classification tasks. It assumes that features are conditionally independent, making it computationally efficient and effective for text classification and spam filtering.
-
 ### K-Means
-
-K-Means is an unsupervised clustering algorithm used to partition data into 'k' distinct clusters. It aims to minimize the distance between data points within each cluster while maximizing the distance between different clusters.
 
 ## Installation
 
@@ -50,4 +42,8 @@ To run the code in this repository, follow these steps:
 
 
 ## Dataset
+1. [Stellar classification dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/data)
+
+
+ 
 
