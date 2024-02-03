@@ -12,7 +12,13 @@ Data_scraping/News scraping on ekantipur/.ipynb_checkpoints/scrape_data-checkpoi
 Naive Bayes-Nepali Text Classification/.ipynb_checkpoints/main-checkpoint.ipynb
 Naive Bayes-Nepali Text Classification/.ipynb_checkpoints/output-checkpoint.csv
 Naive Bayes-Nepali Text Classification/.ipynb_checkpoints/scrape_data-checkpoint.ipynb
-KNNs-Stellar classification/.ipynb_checkpoints/dist_in_higher_dim-checkpoint.ipynb
-KNNs-Stellar classification/.ipynb_checkpoints/KNN-checkpoint.ipynb
+K_Nearest_Neighbor/.ipynb_checkpoints/dist_in_higher_dim-checkpoint.ipynb
+K_Nearest_Neighbor/.ipynb_checkpoints/KNN-checkpoint.ipynb
 K-means-Mineral composition/.ipynb_checkpoints/mineral_composition-checkpoint.ipynb
 K-means-Mineral composition/.ipynb_checkpoints/Water coverage-checkpoint.ipynb
+.idea/Machine_Learning_Projects.iml
+.idea/modules.xml
+.DS_Store
+.DS_Store
+*.pyc
+.DS_Store
