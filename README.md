@@ -1,49 +1,71 @@
-# Machine Project
+# Machine Learning Projects
 
-This repository contains the code and data for a Machine Learning projects that explores various algorithms including Principal Component Analysis (PCA), Decision Tree, Naive Bayes, Artificial Neural Networks (ANN), and K-Means clustering.
+Welcome to the Machine Learning Projects repository! This collection showcases a variety of machine learning projects. The projects include web scraping from the news site Ekantipur and implementations of several machine learning algorithms like PCA, Decision Tree, K-means Clustering, Naive Bayes, and SVM.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Algorithms](#algorithms)
+- [Overview](#overview)
+- [Projects](#projects)
+  - [Web Scraping from Ekantipur](#web-scraping-from-ekantipur)
   - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
   - [Decision Tree](#decision-tree)
+  - [K-means Clustering](#k-means-clustering)
   - [Naive Bayes](#naive-bayes)
-  - [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
-  - [K-Means](#k-means)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
+  - [K-Nearest Neighbors (KNN)](#k-nearest-neighbors-knn)
+  - [Support Vector Machine (SVM)](#support-vector-machine-svm)
 
-## Introduction
+## Overview
 
-The aim of this repo is to explore and analyze a dataset using various machine learning algorithms. The main algorithms utilized in this project are PCA, Decision Tree, Naive Bayes, and K-Means clustering.
+This repository contains various machine learning projects, each implemented in Python. Each project is designed to be standalone, with their own set of dependencies and instructions.
 
-## Algorithms
+## Projects
+
+### Web Scraping from News site (Ekantipur)
+
+This project scrapes news articles from the Ekantipur website. The scraped data can be used for various natural language processing tasks or as a dataset for other machine learning projects.
+
+- **Directory:** `Data_scraping`
+- **Key Libraries:** `os`, `json`, `requests`, `pandas`, `BeautifulSoup`
 
 ### Principal Component Analysis (PCA)
 
+The project showcases dimensionality reduction using Principal Component Analysis on the Fashion MNIST dataset. It includes visualization of the transformed data and explanations of the variance captured by the principal components.
+
+- **Directory:** `PCA-Fashion MNIST`
+- **Key Libraries:** `numpy`, `scikit-learn`, `matplotlib`
+
 ### Decision Tree
+
+This project involves the implementation of a Decision Tree classifier for credit score classification. It includes training the model on a dataset, visualizing the tree, and evaluating its performance.
+
+- **Directory:** `Decision Tree-Credit score classification`
+- **Key Libraries:** `numpy`, `pandas`, `scikit-learn`, `matplotlib`
+
+### K-means Clustering
+
+The K-means Clustering project demonstrates the clustering technique to find mineral composition. It includes visualizations of the clusters and evaluation of the clustering performance.
+
+- **Directory:** `K-Means-Mineal Composition`
+- **Key Libraries:** `numpy`, `scikit-learn`, `matplotlib`, `pandas` 
 
 ### Naive Bayes
 
-### K-Means
+This project involves the implementation of a Naive Bayes classifier for Nepali text classification. It includes preprocessing steps, training the model, and evaluating its performance.
 
-## Installation
+- **Directory:** `Naive Bayes-Nepali Text classification`
+- **Key Libraries:** `numpy`, `pandas`, `scikit-learn`
 
-To run the code in this repository, follow these steps:
+### K-Nearest Neighbors (KNN)
 
-1. Clone this repository to your local machine using `git clone <repository_url>`
-2. Install the required dependencies by running `pip install -r requirements.txt`
+The KNN project showcases the implementation of a K-Nearest Neighbors classifier for classifying between galaxy, star, and QSO. It includes hyperparameter tuning, model training, and performance evaluation.
 
-## Usage
+- **Directory:** `KNNs-Stellar Classification`
+- **Key Libraries:** `numpy`, `pandas`, `tensorflow`, `matplotlib`
 
+### Support Vector Machine (SVM)
 
-## Dataset
-1. [Stellar classification dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17/data)
+The SVM project showcases the implementation of a Support Vector Machine for classification tasks. It includes hyperparameter tuning, model training, and performance evaluation.
 
-
- 
+- **Directory:** `Support_vector_machines`
+- **Key Libraries:** `numpy`, `scikit-learn`, `matplotlib`
 
